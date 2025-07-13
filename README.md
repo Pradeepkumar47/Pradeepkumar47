@@ -1,7 +1,5 @@
 <h1 align="center">
-  <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00ADB5&center=true&vCenter=true&width=800&lines=Hi+I'm+Pradeep+Kumar+👋;Full+Stack+Developer;Data+Analyst;Cloud+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
-</p>
+
   Hi there, I'm  
   <span style="font-weight:bold; background: linear-gradient(to right, #00C9FF, #92FE9D); -webkit-background-clip: text; color: transparent;">
     Pradeep Kumar
